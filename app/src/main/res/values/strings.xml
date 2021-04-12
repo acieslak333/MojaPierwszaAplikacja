@@ -1,4 +1,7 @@
 <resources>
-    <string name="app_name">MojaPierwszaAplikacja</string>
-    <string name="hello">Dzien dobry!</string>
+    <string name="app_name">Tap the button</string>
+    <string name="hello">Hello!</string>
+    <string name="your_score">Your Score: %1$d</string>
+    <string name="time_left">Time: %1$d</string>
+    <string name="game_over">Time is up! You score was: %1$d</string>
 </resources>
